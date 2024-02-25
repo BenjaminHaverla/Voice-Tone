@@ -33,5 +33,9 @@
 <tr>
     <td>Caring</td>
     <td>Lorem ipsum ...</td>
-</tr>    
+</tr>
+<tr>
+    <td>Creative</td>
+    <td>Lorem ipsum ...</td>
+</tr>
 </table>
