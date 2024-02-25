@@ -32,7 +32,7 @@
 </tr>
 <tr>
     <td>Caring</td>
-    <td>Lorem ipsum ...</td>
+    <td>Scary</td>
 </tr>
 <tr>
     <td>Creative</td>
