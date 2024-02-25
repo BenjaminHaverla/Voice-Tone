@@ -30,4 +30,8 @@
     <td>Flexible</td>
     <td>Lorem ipsum ...</td>
 </tr>
+<tr>
+    <td>Caring</td>
+    <td>Lorem ipsum ...</td>
+</tr>    
 </table>
