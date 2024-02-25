@@ -38,4 +38,8 @@
     <td>Creative</td>
     <td>Lorem ipsum ...</td>
 </tr>
+<tr>
+    <td>Loyal</td>
+    <td>Dangerous</td>
+</tr>
 </table>
