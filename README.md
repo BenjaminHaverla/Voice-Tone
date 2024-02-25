@@ -26,4 +26,8 @@
     <td>Patient</td>
     <td>Lorem ipsum ...</td>
 </tr>
+<tr>
+    <td>Flexible</td>
+    <td>Lorem ipsum ...</td>
+</tr>
 </table>
