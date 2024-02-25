@@ -12,7 +12,7 @@
 </tr>
 <tr>
     <td>Precise</td>
-    <td>Chaotic</td>
+    <td>Lorem ipsum ...</td>
 </tr>
 <tr>
     <td>Listener</td>
@@ -20,6 +20,6 @@
 </tr>
 <tr>
     <td>Organised</td>
-    <td>Lorem ipsum ...</td>
+    <td>Chaotic</td>
 </tr>
 </table>
