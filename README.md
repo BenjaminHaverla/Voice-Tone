@@ -28,7 +28,7 @@
 </tr>
 <tr>
     <td>Flexible</td>
-    <td>Lorem ipsum ...</td>
+    <td>Monodimensional</td>
 </tr>
 <tr>
     <td>Caring</td>
