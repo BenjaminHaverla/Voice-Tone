@@ -18,4 +18,8 @@
     <td>Listener</td>
     <td>Lorem ipsum ...</td>
 </tr>
+<tr>
+    <td>Organised</td>
+    <td>Lorem ipsum ...</td>
+</tr>
 </table>
