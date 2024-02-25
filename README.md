@@ -36,7 +36,7 @@
 </tr>
 <tr>
     <td>Creative</td>
-    <td>Lorem ipsum ...</td>
+    <td>Insincere</td>
 </tr>
 <tr>
     <td>Loyal</td>
