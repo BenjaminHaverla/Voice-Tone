@@ -12,7 +12,7 @@
 </tr>
 <tr>
     <td>Precise</td>
-    <td>Lorem ipsum ...</td>
+    <td>Chaotic</td>
 </tr>
 <tr>
     <td>Listener</td>
