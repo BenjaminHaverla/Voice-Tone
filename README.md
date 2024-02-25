@@ -22,4 +22,8 @@
     <td>Organised</td>
     <td>Chaotic</td>
 </tr>
+<tr>
+    <td>Patient</td>
+    <td>Lorem ipsum ...</td>
+</tr>
 </table>
