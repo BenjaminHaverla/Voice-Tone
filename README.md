@@ -8,5 +8,9 @@
 <tr>
     <td>Friendly</td>
     <td>Lorem ipsum ...</td>
- </tr>
+</tr>
+<tr>
+    <td>Precise</td>
+    <td>Lorem ipsum ...</td>
+</tr>
 </table>
