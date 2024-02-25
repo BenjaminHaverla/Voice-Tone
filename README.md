@@ -16,7 +16,7 @@
 </tr>
 <tr>
     <td>Listener</td>
-    <td>Lorem ipsum ...</td>
+    <td>Abusive</td>
 </tr>
 <tr>
     <td>Organised</td>
