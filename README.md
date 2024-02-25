@@ -2,7 +2,7 @@
 
 <table border="0">
 <tr>
-    <td><b style="font-size:30px">Ben is 🟢</b></td>
+    <td><b style="font-size:30px">🟢BEN IS</b></td>
     <td><b style="font-size:30px">Title 2</b></td>
 </tr>
 <tr>
