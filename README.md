@@ -8,7 +8,7 @@
 </tr>
 <tr>
     <td>Friendly</td>
-    <td>Lorem ipsum ...</td>
+    <td>Agressive</td>
 </tr>
 <tr>
     <td>Precise</td>
