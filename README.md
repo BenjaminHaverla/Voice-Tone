@@ -6,7 +6,7 @@
     <td><b style="font-size:30px">🔴 I'm not</b></td>
 </tr>
 <tr>
-    <td>Lorem ipsum ...</td>
+    <td>Friendly ...</td>
     <td>Lorem ipsum ...</td>
  </tr>
 </table>
