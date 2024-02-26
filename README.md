@@ -47,4 +47,4 @@
 ## Ideas of my language/communication
 
 - 📖 I can put my pages in **`CHAPTERS`**
-- 📽️ When someone wants to click | I can use creative words like –> Three... Two... One... ACTION
+- 📽️ When someone wants to click | I can use creative words like –> Three... Two... One... **`ACTION`**
