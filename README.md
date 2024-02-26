@@ -48,4 +48,4 @@
 
 - 📖 I can put my pages in **`CHAPTERS`**
 - 📽️ When someone wants to click, I can use creative words like –> Three... Two... One... **`ACTION`**
-- 🖼️ If it's possible, communicate also with pictures and videos
+- 🖼️ If it's possible, communicate also with **`PICTURES`** and **`VIDEOS`**
