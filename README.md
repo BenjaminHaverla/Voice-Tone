@@ -24,7 +24,7 @@
 </tr>
 <tr>
     <td>Patient</td>
-    <td>Lorem ipsum ...</td>
+    <td>Insecure</td>
 </tr>
 <tr>
     <td>Flexible</td>
