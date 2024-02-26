@@ -43,3 +43,8 @@
     <td>Dangerous</td>
 </tr>
 </table>
+
+## Ideas of my language/communication
+
+- 📖 I can put my pages in chapters
+- 📽️ When someone wants to click | I can use creative words like –> Three... Two... One... ACTION
